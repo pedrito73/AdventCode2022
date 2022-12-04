@@ -5,3 +5,5 @@ day 1 - Calorie count - Elf Food
 day 2 - Rock Paper Scissor - RPS - where is lizard, spock ??
 day 3 - Rucksack - RuckSack //TODO
 day 4 - Clean up camp - CampCleanup - ranges and subranges
+
+SO FAR ALL JAVA, WILL BE GOING TO C SOON
